@@ -1,0 +1,1 @@
+javascript:(function(){var style=document.createElement('style');document.head.appendChild(style);style.sheet.insertRule('@media screen and (min-width: 1024px) { .JRcPue .shSP { max-width: none !important; padding: 0 24px !important; } }', 0);})();
